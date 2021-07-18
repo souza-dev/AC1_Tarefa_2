@@ -1,2 +1,2 @@
 # Tarefa 2
-Tarefa 2 da discplina Análise e Classificação de imagens
+Tarefa 2 da disciplina Análise e Classificação de imagens
